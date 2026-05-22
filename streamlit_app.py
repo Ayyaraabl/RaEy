@@ -11,3 +11,5 @@ st.badge("Success", icon=":material/check:", color="green")
 
 st.markdown(
     ":violet-badge[:material/star: Favorite] :orange-badge[⚠️ Needs review] :gray-badge[Deprecated]")
+st.caption("This is a string that explains something above.")
+st.caption("A caption with _italics_ :blue[colors] and emojis :sunglasses:")
